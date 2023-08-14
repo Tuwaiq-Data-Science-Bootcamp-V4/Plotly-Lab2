@@ -3,7 +3,7 @@
 ## Expected Outputs:
 
 ### Question#4
-![1](https://github.com/Tuwaiq-Data-Science-Bootcamp-V4/Plotly-Lab2/assets/89189772/9d21aef1-e137-4364-b522-cc7bc8593c59)
+![1](https://github.com/Tuwaiq-Data-Science-Bootcamp-V4/Plotly-Lab2/assets/89189772/c4fa5071-8ff6-43da-b9f7-2c453d19ccfd)
 
 
 
