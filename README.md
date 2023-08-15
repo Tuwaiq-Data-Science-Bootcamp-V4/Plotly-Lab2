@@ -1,4 +1,4 @@
-# Plotly-Lab2
+# Plotly-Lab2-Solution
 
 ## Expected Outputs:
 
